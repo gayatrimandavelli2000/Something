@@ -1,0 +1,15 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.product-search-bar {
+    width: 100%;
+}
+
+.cart-title {
+    padding: 1em;
+    text-align: left;
+    font-weight: bold;
+    font-size: 20px;
+}
